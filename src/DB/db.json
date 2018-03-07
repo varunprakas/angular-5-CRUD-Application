@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "title": "Angular 4 CRUD Example",
+      "category": "Angular 2",
+      "id": 1
+    },
+    {
+      "title": "Test1",
+      "category": "Varun",
+      "id": 2
+    }
+  ]
+}
